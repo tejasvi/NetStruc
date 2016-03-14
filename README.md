@@ -6,7 +6,7 @@ said winter school. The notebook is also the "hands-on" counterpart of the lectu
 the slide deck; download link to follow.
 
 
-### Summary
+### Description
 Real-world networks reveal clustering behaviour, which is exhibited in the formation of communities/clusters/partitions 
 (used inerchangeably in this recipe) in the graph structure. When studying networks, their structure and function, 
 it is therefore crucial to identify these bunchings. The concept of clustering and community detection oftentimes 
