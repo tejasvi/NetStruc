@@ -1,9 +1,7 @@
 # NetStruc
 
-This is a repository for the notebook I have prepared for this year's (2016) NTU Winter School on Complexity Sciency. The notebook
-is a supplementary material to Michael Lees and Debraj Roy's A Short Practical Introduction to NetworkX for the 
-said winter school. The notebook is also the "hands-on" counterpart of the lecture I have prepared titled "Community Structures". I will be uploading 
-the slide deck; download link to follow.
+This is a repository for the notebook I have prepared for this year's (2016) NTU Winter School on Complexity Science. The notebook
+is a supplementary material to Michael Lees and Debraj Roy's A Short Practical Introduction to NetworkX. The recipe is also the hands-on counterpart of the lecture I have prepared titled ["Community Structures"](http://www.slideshare.net/ErikaFilleLegara/community-detection-with-networkx-59540229).
 
 
 ### Description
