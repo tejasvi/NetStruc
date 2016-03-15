@@ -6,14 +6,11 @@ is a supplementary material to Michael Lees and Debraj Roy's A Short Practical I
 
 ### Description
 Real-world networks reveal clustering behaviour, which is exhibited in the formation of communities/clusters/partitions 
-(used inerchangeably in this recipe) in the graph structure. When studying networks, their structure and function, 
-it is therefore crucial to identify these bunchings. The concept of clustering and community detection oftentimes 
-go hand-in-hand, and with other concepts such as cliques and connected components, to name a few, as well. Here, 
-we explore these different structures with a strong strong focus on clustering and community detection by looking at two general
-methods, and three submethods:
+(used interchangeably in the recipe) in the graph structure. When studying networks, their structure and function, 
+it is also crucial to identify these bunchings. Here, we explore these different structures with a strong focus on clustering and community detection. In particular, we look at two general methods, and three submethods:
 
 1. Divisive Method
-  - Girvan-Newman Algorithm 
+  - Girvan-Newman Algorithm (using _edge betweenness_)
 2. Agglomerative Method
-  - Hierarchical clustering (distance matrix)
-  - Louvain Algorithm 
+  - Hierarchical clustering (using a _distance matrix_)
+  - Louvain Algorithm (using _modularity_ for optimization)
