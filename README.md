@@ -1,5 +1,7 @@
 # NetStruc
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/eflegara/Network-Science-Lectures/blob/master/LICENSE.md)
+
 This is a repository for the notebook I have prepared for this year's (2016) NTU Winter School on Complexity Science. The notebook
 is a supplementary material to Michael Lees and Debraj Roy's A Short Practical Introduction to NetworkX. The recipe is also the hands-on counterpart of the lecture I have prepared titled ["Community Structures"](http://www.slideshare.net/ErikaFilleLegara/community-detection-with-networkx-59540229).
 
